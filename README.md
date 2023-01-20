@@ -1,3 +1,5 @@
+# Folder Structure
+
 Co2 Emissions EDA.pdf - Contains all the code of jupyter notebook and Tableau visualizations 
 				with storytelling.
 
